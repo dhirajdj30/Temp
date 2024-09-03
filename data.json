@@ -1,0 +1,33 @@
+{    
+    "pid": "COMG9UD4KTCKZ8GU",
+    "itemId": "ITMEEBBF1332BF95",
+    
+    "brand": "Apple",
+    "title": "Apple MacBook Air Apple M1 - (16 GB/256 GB SSD/Mac OS Big Sur) Z124J001KD",
+    "subTitle": "13.3 inch, Space Grey, 1.29 Kg",
+  
+    "mrp": 112900,
+    "price": 112900,
+    "specialPrice": 107255.0,
+    "rating": {
+        "overall": {
+            "average": 4.0,
+            "count": 20779,
+            "reviewCount": 2125,
+            "breakup": [
+                1650,
+                1146,
+                2861,
+                5379,
+                9743
+            ]
+        }
+
+    },
+    "highlights": [
+        "Stylish & Portable Thin and Light Laptop",
+        "13.3 inch Quad LED Backlit IPS Display (227 PPI, 400 nits Brightness, Wide Colour (P3), True Tone Technology)",
+        "Light Laptop without Optical Disk Drive"
+    ]
+
+}
